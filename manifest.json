@@ -47,7 +47,9 @@
             {
                 "name": "some_text",
                 "type": "display_text",
-                "text": "This is some text that is going to be displayed.\n\nAnother line."
+                "ask": {
+                    "en": "This is some text that is going to be displayed.\n\nAnother line."
+                }
             },
             {
                 "name": "is_public",
